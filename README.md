@@ -3,7 +3,9 @@ storing date) based on user’s entered string, that also contains a message. Ba
 receives reminder with message that they put in to initial string.
 
 Script can recognize about 20 time/date format variations.Such as:
-1. 6pm call mom
+<ol>
+  <li>6pm call mom</li>
+</ol>
 2. 6:30pm call mom
 3. 6:19p call mom
 4. 6p call mom
